@@ -9,7 +9,7 @@ _________________
 version:1
 */
 
-$API_KEY = 'توکن';
+$API_KEY = '799471474:AAHp2f-ZglubsFMcvI8OJiAKpX2A_zX5dlM';
 ##------------------------------##
 define('API_KEY',$API_KEY);
 function bot($method,$datas=[]){
